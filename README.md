@@ -4,8 +4,6 @@
 
 ### 😶 About me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tamakara&show_icons=true&rank_icon=github&theme=blue_navy">
-
 ### 魂辛カラ (TamaKara)
 
 > 💬 a.k.a. tamakara, xiao2, xiao2_dd, suhxhee.
@@ -16,14 +14,4 @@
 - 💖 Anime / Comics / Games / Music
 
 ---
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamakara&layout=donut&theme=blue_navy">
-
-### 📫 Get in Touch
-
-- QID： tamakara
-- WeChat： suhxhee
-
----
-
 
