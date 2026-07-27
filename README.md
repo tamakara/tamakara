@@ -1,10 +1,10 @@
-<h3 align="center">✨✨✨👋 Hello, I am TamaKara 👋✨✨✨</h3>
+<h3 align="center">✨✨✨👋 Hello, I am TAMAKARA 👋✨✨✨</h3>
 
 ---
 
 ### 😶 About me
 
-### 魂辛カラ (TamaKara)
+### 魂辛カラ (TAMAKARA)
 
 > 💬 a.k.a. tamakara, xiao2, xiao2_dd, suhxhee.
 
